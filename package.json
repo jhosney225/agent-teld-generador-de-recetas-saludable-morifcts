@@ -1,0 +1,6 @@
+{
+  "name": "agent-teld-generador-de-recetas-saludable-morifcts",
+  "version": "1.0.0",
+  "description": "Proyecto de Teld [Gen6]: generador de recetas saludables con calorias",
+  "main": "index.js"
+}
